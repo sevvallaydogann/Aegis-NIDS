@@ -6,6 +6,9 @@
 
 **Aegis** is a lightweight, Python-based Network Intrusion Detection System (NIDS) designed to detect **TCP SYN Flood** attacks and **Port Scanning** activities in real-time. It features a live **Streamlit Dashboard** to visualize threat data, attacker IPs, and attack frequencies.
 
+![Aegis Dashboard Screenshot](dashboard_screenshot.png)
+*Aegis NIDS - Real-time Threat Intelligence Dashboard*
+
 ## Key Features
 
 * **🔍 Real-Time Packet Sniffing:** Monitors network traffic using `Scapy` to detect anomalies.
