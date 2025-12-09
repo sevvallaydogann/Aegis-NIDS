@@ -6,14 +6,14 @@
 
 **Aegis** is a lightweight, Python-based Network Intrusion Detection System (NIDS) designed to detect **TCP SYN Flood** attacks and **Port Scanning** activities in real-time. It features a live **Streamlit Dashboard** to visualize threat data, attacker IPs, and attack frequencies.
 
-## 🚀 Key Features
+## Key Features
 
 * **🔍 Real-Time Packet Sniffing:** Monitors network traffic using `Scapy` to detect anomalies.
 * **🚨 Threat Detection:** Analyzes TCP Handshakes to identify suspicious SYN requests (Port Scanning / DoS).
 * **📊 Live Dashboard:** Visualizes attack telemetry, unique attackers, and incident timelines via a web interface.
 * **📝 Event Logging:** detailed attack logs are saved to `alerts.csv` for forensic analysis.
 
-## 🛠️ Installation
+## Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -30,7 +30,7 @@
     * Download and install [Npcap](https://npcap.com/#download).
     * **Important:** Ensure you check the box *"Install Npcap in WinPcap API-compatible Mode"* during installation.
 
-## 💻 Usage
+## Usage
 
 To run the system, you need to open two separate terminals:
 
