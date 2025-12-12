@@ -11,10 +11,10 @@
 
 ## Key Features
 
-* **🔍 Real-Time Packet Sniffing:** Monitors network traffic using `Scapy` to detect anomalies.
-* **🚨 Threat Detection:** Analyzes TCP Handshakes to identify suspicious SYN requests (Port Scanning / DoS).
-* **📊 Live Dashboard:** Visualizes attack telemetry, unique attackers, and incident timelines via a web interface.
-* **📝 Event Logging:** detailed attack logs are saved to `alerts.csv` for forensic analysis.
+* ** Real-Time Packet Sniffing:** Monitors network traffic using `Scapy` to detect anomalies.
+* ** Threat Detection:** Analyzes TCP Handshakes to identify suspicious SYN requests (Port Scanning / DoS).
+* ** Live Dashboard:** Visualizes attack telemetry, unique attackers, and incident timelines via a web interface.
+* ** Event Logging:** detailed attack logs are saved to `alerts.csv` for forensic analysis.
 
 ## Installation
 
